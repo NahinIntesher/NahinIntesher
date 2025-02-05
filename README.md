@@ -2,7 +2,7 @@
     <img src="https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg"> 
     <!-- Replace with your profile image URL -->
 </p>
-<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=NahinIntesher.NahinIntesher" alt="Profile views">
@@ -21,22 +21,22 @@
 
 <h2> Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=&logo=go&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=&logo=express&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=&logo=Flutter&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=&logo=c&logoColor=white&scale=2)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=&logo=c%2B%2B&logoColor=white&scale=2)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=&logo=dart&logoColor=white&scale=2)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=&logo=openjdk&logoColor=white&scale=2)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=&logo=javascript&logoColor=%23F7DF1E&scale=2)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=&logo=go&logoColor=white&scale=2)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=&logo=express&logoColor=%2361DAFB&scale=2)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=&logo=Flutter&logoColor=white&scale=2)
+![Next JS](https://img.shields.io/badge/Next-black?style=&logo=next.js&logoColor=white&scale=2)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=&logo=node.js&logoColor=white&scale=2)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=&logo=react&logoColor=%2361DAFB&scale=2)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=&logo=react&logoColor=%2361DAFB&scale=2)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=&logo=mysql&logoColor=white&scale=2)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=&logo=postgresql&logoColor=white&scale=2)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=&logo=git&logoColor=white&scale=2)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=&logo=github&logoColor=white&scale=2)
 
 <h2> Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 
