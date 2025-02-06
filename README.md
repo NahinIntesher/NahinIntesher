@@ -22,7 +22,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=&logo=c&logoColor=white&scale=2)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=&logo=c%2B%2B&logoColor=white&scale=2)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=&logo=dart&logoColor=white&scale=2
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=&logo=dart&logoColor=white&scale=2)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=&logo=javascript&logoColor=%23F7DF1E&scale=2)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=&logo=go&logoColor=white&scale=2)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=&logo=express&logoColor=%2361DAFB&scale=2)
