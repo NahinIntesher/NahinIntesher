@@ -8,8 +8,8 @@
 <p align="center">
 </p>
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=NahinIntesher.NahinIntesher" alt="Profile views">
-<a href="https://github.com/NahinIntesher"><img src="https://img.shields.io/github/followers/NahinIntesher?label=Follow&amp;style=social" alt="Github"></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahinintesher&label=Profile%20views&color=0e75b6&style=flat" alt="nahinintesher" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahinintesher" alt="nahinintesher" /></a> </p>
 
 <div size="20px"> Hi! I'm Nahin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
