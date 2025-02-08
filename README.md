@@ -46,17 +46,16 @@
 <p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=NahinIntesher&amp;theme=tokyonight" alt="GitHub Activity Graph"></a></p>
 
 <table>
-  <tbody>
+  <thead>
     <tr>
       <th><img src="https://github-readme-stats.vercel.app/api?username=NahinIntesher&show_icons=true&theme=aura" alt="GitHub Stats"></th>
       <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages"></td>
-    </tr>
-    <tr>
       <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes"></td>
-      <td><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></td>
     </tr>
   </tbody>
 </table>
@@ -64,6 +63,8 @@
 <br>  
 <br>  
 <!-- Added extra space before the animation -->
+
+<p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
 
 <p>Credits: <a href="https://github.com/NahinIntesher">Nahin Intesher</a></p>
 <p>Last Updated: 03/10/2023</p>
