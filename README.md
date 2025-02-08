@@ -9,7 +9,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahinintesher&label=Profile%20views&color=0e75b6&style=flat" alt="nahinintesher" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahinintesher" alt="nahinintesher" /></a> </p>
 
 <div size="20px"> Hi! I'm Nahin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -50,13 +49,16 @@
   <thead>
     <tr>
       <th><img src="https://github-readme-stats.vercel.app/api?username=NahinIntesher&show_icons=true&theme=aura" alt="GitHub Stats"></th>
-      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></th>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages"></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages"></td>
+      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></th>
+    </tr>
+    <tr>
       <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes"></td>
+      <td><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></td>
     </tr>
   </tbody>
 </table>
@@ -64,10 +66,6 @@
 <br>  
 <br>  
 <!-- Added extra space before the animation -->
-
-<p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
-
----
 
 <p>Credits: <a href="https://github.com/NahinIntesher">Nahin Intesher</a></p>
 <p>Last Updated: 03/10/2023</p>
