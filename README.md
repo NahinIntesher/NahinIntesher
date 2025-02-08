@@ -46,13 +46,11 @@
 <p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=NahinIntesher&amp;theme=tokyonight" alt="GitHub Activity Graph"></a></p>
 
 <table>
-  <thead>
+  <tbody>
     <tr>
       <th><img src="https://github-readme-stats.vercel.app/api?username=NahinIntesher&show_icons=true&theme=aura" alt="GitHub Stats"></th>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages"></td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></th>
       <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes"></td>
