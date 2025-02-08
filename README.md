@@ -35,8 +35,6 @@
 <a href="https://discord.gg/nahin_92928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nahin_92928" height="30" width="40" /></a>
 </p>
 
-
-
 ---
 
 <h2> Tech Stack 
