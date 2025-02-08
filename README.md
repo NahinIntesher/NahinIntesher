@@ -27,12 +27,12 @@
 <h2> Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nahin-intesher-903724253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahin-intesher-903724253/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/naahin.sikdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/naahin.sikdar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucu3cxp1su-wbnp2w602k37a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucu3cxp1su-wbnp2w602k37a" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nahin_intesher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nahin_intesher" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/nahinintesher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nahinintesher/" height="30" width="40" /></a>
-<a href="https://discord.gg/nahin_92928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nahin_92928" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nahin-intesher-903724253/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahin-intesher-903724253/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/naahin.sikdar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/naahin.sikdar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucu3cxp1su-wbnp2w602k37a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucu3cxp1su-wbnp2w602k37a" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nahin_intesher" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nahin_intesher" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nahinintesher/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nahinintesher/" height="30" width="40" /></a>
+<a href="https://discord.gg/nahin_92928" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nahin_92928" height="30" width="40" /></a>
 </p>
 
 ---
