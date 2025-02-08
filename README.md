@@ -12,9 +12,10 @@
 
 <p align="left">
     <a href="https://wakatime.com/@16cbf78d-187d-4d7a-9637-9a51124223b7">
-        <img src="https://wakatime.com/badge/user/16cbf78d-187d-4d7a-9637-9a51124223b7.svg" alt="Total time coded since Feb 8 2025" width="200" height="40" />
+        <img src="https://wakatime.com/badge/user/16cbf78d-187d-4d7a-9637-9a51124223b7.svg" alt="Total time coded since Feb 8 2025" width="200" height="40" onerror="this.onerror=null; this.src='https://wakatime.com/badge/user/16cbf78d-187d-4d7a-9637-9a51124223b7.svg';"/>
     </a>
 </p>
+>
 
 <div size="20px"> Hi! I'm Nahin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
