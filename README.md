@@ -55,9 +55,9 @@
   <tbody>
     <tr>
       <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></th>
+      <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes"></td>
     </tr>
     <tr>
-      <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes"></td>
       <td><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></td>
     </tr>
   </tbody>
