@@ -33,7 +33,7 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/nahin_intesher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/nahin_intesher" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/nahinintesher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nahinintesher/" height="30" width="40" /></a>
 <a href="https://discord.gg/nahin_92928" target="_blank"> 
-    <img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Discord-Logo.png" alt="Discord" height="40" width="40" style="border-radius: 50%; background: white; padding: 5px;"/> 
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Discord_Logo.svg" alt="Discord" height="40" width="40" style="border-radius: 50%; background: white; padding: 5px;"/> 
 </a>
 
 
