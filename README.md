@@ -100,7 +100,7 @@
 
 ---
 ## 📊 GitHub Activity Graph
-<p align="center"  width="70%" border="2px">
+<p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NahinIntesher&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
@@ -109,10 +109,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" width="70%" border="2px" alt="GitHub Streak"></P>
 
 <br>  
-
-<p>Credits: <a href="https://github.com/NahinIntesher">Nahin Intesher</a></p>
-<p>Last Updated: 03/10/2023</p>
-
 <br>
 
 <picture>
