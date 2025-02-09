@@ -17,6 +17,7 @@
 <li>🔭 I’m currently working on [Chattot](https://github.com/NahinIntesher/ChatTott)</li>
 <li>👨‍💻 All of my projects are available at [https://nahin.vercel.app/](https://nahin.vercel.app/)</li>
 </ul>
+<br>  
 
 ---
 
@@ -30,12 +31,14 @@
 <a href="https://leetcode.com/u/nahinintesher/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nahinintesher/" height="30" width="40" /></a>
 <a href="https://discord.gg/nahin_92928" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nahin_92928" height="30" width="40" /></a>
 </p>
+<br>  
 
 ---
 
 <h2> 💻 Tech Stack 
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="30px"> 
 </h2>
+<br>  
 
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -93,19 +96,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background: white; padding: 5px; border-radius: 5px; margin: 10px;"/> 
     </a> 
 </p>
+<br>  
 
 ---
 ## 📊 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak" width="48%" height="200px" style="margin-right: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages" width="48%" height="200px">
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak">
-<!--  beetwkeep gap -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages">
 </p>
 
 <br>  
