@@ -103,12 +103,8 @@
 </p>
 
 <table>
-  <thead>
-    <tr>
       <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></th>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages"></td>
-    </tr>
-  </thead>
 </table>
 
 
