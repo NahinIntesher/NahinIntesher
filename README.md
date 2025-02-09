@@ -95,16 +95,22 @@
 </p>
 
 ---
+## 📊 GitHub Activity Graph
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NahinIntesher&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </p>
-## 📊 GitHub Activity Graph
-<p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages"></p>
-</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></th>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages"></td>
+    </tr>
+  </thead>
+</table>
+
 
 <br>  
 <br>  
