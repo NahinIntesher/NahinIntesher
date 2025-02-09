@@ -17,7 +17,6 @@
 ---
 
 <h2> About Me </h2>
-- 
 <ul>
 <li>🌱 I’m currently learning Backend</li>
 <li>🔭 I’m currently working on [Chattot](https://github.com/NahinIntesher/ChatTott)</li>
