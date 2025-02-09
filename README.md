@@ -106,7 +106,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" width="100%" alt="GitHub Streak"></P>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" width="70%" alt="GitHub Streak"></P>
 
 <br>  
 
