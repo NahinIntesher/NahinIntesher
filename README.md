@@ -1,15 +1,11 @@
-<p align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D5612AQFXHXwdo2Fwfw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1726506045798?e=1744243200&v=beta&t=wGZY0mBc1j1Cd4vxowGlZGlz_jvRzvFm7FXfoSOXuHs"> 
-</p>
-
 <h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
+## <h2> About Me </h2>
 <div size="20px"> Hi! I'm Nahin. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 ---
 
-<h2> About Me </h2>
 <ul>
 <li>🌱 I’m currently learning Backend</li>
 <!-- <li>🔭 I’m currently working on [Chattot](https://github.com/NahinIntesher/ChatTott)</li> -->
