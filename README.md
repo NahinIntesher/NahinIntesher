@@ -101,9 +101,25 @@
 ---
 ## 📊 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak" style="margin-right:">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NahinIntesher&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  </a>
 </p>
+
+<table>
+  <thead>
+    <tr>
+      <th><img src="https://github-readme-stats.vercel.app/api?username=NahinIntesher&show_icons=true&theme=aura" alt="GitHub Stats"></th>
+      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages"></td>
+      <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes"></td>
+    </tr>
+  </tbody>
+</table>
 
 <br>  
 
