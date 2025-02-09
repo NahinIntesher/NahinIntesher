@@ -106,20 +106,7 @@
   </a>
 </p>
 
-<table>
-  <thead>
-    <tr>
-      <th><img src="https://github-readme-stats.vercel.app/api?username=NahinIntesher&show_icons=true&theme=aura" alt="GitHub Stats"></th>
-      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages"></td>
-      <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes"></td>
-    </tr>
-  </tbody>
-</table>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></P>
 
 <br>  
 
