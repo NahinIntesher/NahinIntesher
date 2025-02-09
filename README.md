@@ -102,16 +102,12 @@
   </a>
 </p>
 
-<table>
-      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak"></th>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages"></td>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages">
+</p>
 
 <br>  
-<br>  
-<!-- Added extra space before the animation -->
-
 
 <p>Credits: <a href="https://github.com/NahinIntesher">Nahin Intesher</a></p>
 <p>Last Updated: 03/10/2023</p>
@@ -123,5 +119,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-
