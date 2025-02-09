@@ -17,10 +17,11 @@
 ---
 
 <h2> About Me </h2>
-
+- 
 <ul>
-<li>🌱 I’m currently learning Full Stack Development</li>
-<li>⚡ Fun fact: I enjoy working on cross-platform mobile apps</li>
+<li>🌱 I’m currently learning Backend</li>
+<li>🔭 I’m currently working on [Chattot](https://github.com/NahinIntesher/ChatTott)</li>
+<li>👨‍💻 All of my projects are available at [https://nahin.vercel.app/](https://nahin.vercel.app/)</li>
 </ul>
 
 ---
