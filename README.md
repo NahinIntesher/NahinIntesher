@@ -95,8 +95,7 @@
 </p>
 
 ---
-# 📊 GitHub Stats:
-<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=NahinIntesher&amp;theme=tokyonight" alt="GitHub Activity Graph"></a></p>
+[![📊 NahinIntesher's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NahinIntesher&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)>
 
 <table>
   <thead>
