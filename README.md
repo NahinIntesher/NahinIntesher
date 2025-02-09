@@ -95,9 +95,10 @@
 </p>
 
 ---
-<p>
-  <a href="https://git.io/praveenscience">
-    <img src="https://activity-graph.herokuapp.com/graph?username=NahinIntesher&theme=tokyonight" alt="GitHub Activity Graph">
+## 📊 GitHub Activity Graph
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NahinIntesher&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
