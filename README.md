@@ -101,8 +101,8 @@
 ---
 ## 📊 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak" width="48%" style="margin-right:">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahinIntesher&theme=aura" alt="GitHub Streak" style="margin-right:">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahinIntesher&theme=aura&layout=compact" alt="Top Languages">
 </p>
 
 <br>  
