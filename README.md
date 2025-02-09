@@ -2,8 +2,8 @@
     <img src="https://media.licdn.com/dms/image/v2/D5612AQFXHXwdo2Fwfw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1726506045798?e=1744243200&v=beta&t=wGZY0mBc1j1Cd4vxowGlZGlz_jvRzvFm7FXfoSOXuHs"> 
 </p>
 
-<h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahinintesher&label=Profile%20views&color=0e75b6&style=plastic" alt="nahinintesher" /> </p>
+<h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahinintesher&label=Profile%20views&color=0e75b6&style=plastic" alt="nahinintesher" /> </p></h1>
+
 
 
 <div size="20px"> Hi! I'm Nahin. Thank You for taking the time to view my GitHub Profile :smile: 
