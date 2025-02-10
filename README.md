@@ -5,11 +5,10 @@ I am a passionate developer learning backend development. I like creating fast a
 
 ## 🛠 Skills
 
-- **Languages:** C, C++, Java, JavaScript, Dart, Go
-- **Delvelopments:** HTML, CSS, Taiwind CSS
-- **Frameworks & Libraries**: React.js, Next.js, Express.js, NestJS, Flutter, Tailwind CSS
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools & Technologies**: Git
+- **Languages:** C, C++, Java, HTML, CSS, JavaScript, Dart, Go
+- **Frameworks & Libraries:** React.js, Next.js, Express.js, NestJS, Flutter, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL
+- **Tools & Technologies:** Git & Github
 
 ## 🚀 About Me
 
