@@ -1,11 +1,7 @@
 # 👋 Hey there! I'm Nahin Intesher
 
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=NahinIntesher&color=blue&style=flat)
 A passionate developer currently exploring the world of backend development. I enjoy building efficient and scalable solutions using modern technologies.
-
----
 
 ## 🛠 Skills
 
@@ -14,15 +10,11 @@ A passionate developer currently exploring the world of backend development. I e
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools & Technologies**: Git, Docker, CI/CD Pipelines, Linux, REST APIs, Tailwind CSS
 
----
-
 ## 🚀 About Me
 
 - 🌱 Currently learning **Backend Development**
 - 💻 All my projects are available at [My Portfolio](https://nahin.vercel.app)
 - 🎯 Passionate about **Full-Stack Development & System Design**
-
----
 
 ## 🫱🏻‍🫲🏻 Let's Connect
 
@@ -32,11 +24,7 @@ A passionate developer currently exploring the world of backend development. I e
 - 🎥 [YouTube](https://www.youtube.com/channel/ucu3cxp1su-wbnp2w602k37a)
 - 📘 [Facebook](https://www.facebook.com/naahin.sikdar)
 
----
-
 Thanks for visiting my profile! Feel free to explore my projects or reach out for collaboration. Let's build something amazing together! 🚀
-
----
 
 ## 📊 GitHub Activity Graph
 
