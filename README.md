@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Nahin Intesher
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NahinIntesher&color=blue&style=flat) </br>
-A passionate developer currently exploring the world of backend development. I enjoy building efficient and scalable solutions using modern technologies.
+I am a passionate developer learning backend development. I like creating fast and scalable solutions with modern technology. Programming always excites me, and I enjoy learning new things. Right now, I am focusing on how backend systems work and how to improve them. I also have a strong interest in networking and cybersecurity. I love understanding how networks work and how to keep them safe. My goal is to build secure and efficient applications. I believe learning never stops, and I always try to improve my skills.
 
 ## 🛠 Skills
 
@@ -17,7 +17,7 @@ A passionate developer currently exploring the world of backend development. I e
 - 🎯 Passionate about **Full-Stack Development & System Design**
 <!-- - 🔎 Currently learning a MERN Stack Internship -->
 
-## 🫱🏻‍🫲🫱🏻‍🫲🏻🫱🏽‍🫲🏻🤝 Let's Connect
+## 🤝 Let's Connect
 
 - 🌐 [Website](https://nahin.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nahin-intesher-903724253/)
