@@ -17,7 +17,7 @@ A passionate developer currently exploring the world of backend development. I e
 - 🎯 Passionate about **Full-Stack Development & System Design**
 <!-- - 🔎 Currently learning a MERN Stack Internship -->
 
-## 🫱🏻‍🫲🏻 Let's Connect
+## 🫱🏻‍🫲🫱🏻‍🫲🏻🫱🏽‍🫲🏻🤝 Let's Connect
 
 - 🌐 [Website](https://nahin.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nahin-intesher-903724253/)
@@ -26,7 +26,7 @@ A passionate developer currently exploring the world of backend development. I e
 - 📊 [Codeforces](https://codeforces.com/profile/Nahin_Intesher)
 <!-- - 🎥 [YouTube](https://www.youtube.com/channel/ucu3cxp1su-wbnp2w602k37a) -->
 
-Thanks for visiting my profile! Feel free to explore my projects or reach out for collaboration. Let's build something amazing together! 🚀
+Thanks for visiting my profile! Feel free to explore my projects or reach out for collaboration. Let's build something amazing together!
 
 ## 📊 GitHub Activity Graph
 
