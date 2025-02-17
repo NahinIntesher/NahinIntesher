@@ -14,7 +14,7 @@ I am a passionate developer learning backend development. I like creating fast a
 
 - ✍️ Currently learning **Backend Development**
 - 💻 All my projects are available at [My Portfolio](https://nahin.vercel.app)
-- 🎯 Passionate about **Full-Stack Development & System Design**
+- 🎯 Interested about **Full-Stack Development & System Design**
 <!-- - 🔎 Currently learning a MERN Stack Internship -->
 
 ## 🤝 Let's Connect
