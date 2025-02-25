@@ -26,7 +26,7 @@ I am a passionate developer learning backend development. I like creating fast a
 - 📊 [Codeforces](https://codeforces.com/profile/Nahin_Intesher)
 <!-- - 🎥 [YouTube](https://www.youtube.com/channel/ucu3cxp1su-wbnp2w602k37a) -->
 
-Thanks for visiting my profile! Feel free to explore my projects or reach out for collaboration. Let's build something amazing together! 
+Thanks for visiting my profile! Feel free to explore my projects or reach out for collaboration. Let's build something amazing together!
 
 ---
 
@@ -36,8 +36,6 @@ Thanks for visiting my profile! Feel free to explore my projects or reach out fo
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NahinIntesher&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" /> -->
 
 <!-- <br>
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
