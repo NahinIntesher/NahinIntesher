@@ -1,7 +1,8 @@
 # 👋 Hey there! I'm Nahin Intesher
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NahinIntesher&color=blue&style=flat) </br>
-I am a passionate developer learning backend development. I like creating fast and scalable solutions with modern technology. Programming always excites me, and I enjoy learning new things. Right now, I am focusing on how backend systems work and how to improve them. I also have a strong interest in networking and cybersecurity. I love understanding how networks work and how to keep them safe. My goal is to build secure and efficient applications. I believe learning never stops, and I always try to improve my skills.
+Hello! I'm Nahin Intesher, a passionate Computer Science student and full-stack developer. I want to specialize in Quantum Computing.
+My journey in technology began after admitting into University, and I've since developed a diverse skill set spanning multiple programming languages and frameworks by maintaining a decent CGPA. When I'm not coding, you can find me exploring the latest advancements in machine learning.
 
 ## 🛠 Skills
 
@@ -12,9 +13,9 @@ I am a passionate developer learning backend development. I like creating fast a
 
 ## 🚀 About Me
 
-- ✍️ Currently learning **Backend Development**
+- ✍️ Currently learning **Machine Learning**
 - 💻 All my projects are available at [My Portfolio](https://nahin.vercel.app)
-- 🎯 Interested about **Full-Stack Development & System Design**
+- 🎯 Interested about **Quantum Computing and Quantum Machine Learning**
 <!-- - 🔎 Currently learning a MERN Stack Internship -->
 
 ## 🤝 Let's Connect
@@ -35,9 +36,9 @@ Thanks for visiting my profile! Feel free to explore my projects or reach out fo
 </p>
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NahinIntesher&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" /> -->
 
-<!-- <br>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture> -->
+</picture>
