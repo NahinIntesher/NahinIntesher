@@ -36,9 +36,9 @@ Thanks for visiting my profile! Feel free to explore my projects or reach out fo
 </p>
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NahinIntesher&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" /> -->
 
-<-- <br>
+<!-- <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture> 
+</picture> -->
