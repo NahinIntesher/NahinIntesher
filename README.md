@@ -1,26 +1,26 @@
 # 👋 Hey there! I'm Nahin Intesher
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NahinIntesher&color=blue&style=flat) </br>
-Hello! I'm Nahin Intesher, a passionate Computer Science student and full-stack developer. I want to specialize in Quantum Computing.
+Hello! I'm Nahin Intesher, a passionate Computer Science student and full-stack developer. I want to specialize in Deep Learning and Computer Vision.
 My journey in technology began after admitting into University, and I've since developed a diverse skill set spanning multiple programming languages and frameworks by maintaining a decent CGPA. When I'm not coding, you can find me exploring the latest advancements in machine learning.
 
 ## 🛠 Skills
 
-- 💻 **Languages:** C, C++, Java, JavaScript, Dart, Golang
-- 📚 **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Flutter, Tailwind CSS, Gin
+- 💻 **Languages:** C, C++, Python, Java, JavaScript, Typescript
+- 📚 **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Flutter, Tailwind CSS
 - 🛢️ **Databases:** MySQL, PostgreSQL
 - ⚙️ **Tools & Technologies:** Git & Github
 
 ## 🚀 About Me
 
-- ✍️ Currently learning **Machine Learning**
-- 💻 All my works are available at [My Portfolio](https://nahin.vercel.app)
+- ✍️ Currently learning **Deep Learning**
+- 💻 All my works are available at [My Portfolio](https://nahin.com.bd)
 - 🎯 Interested about **Quantum Computing and Quantum Machine Learning**
 <!-- - 🔎 Currently learning a MERN Stack Internship -->
 
 ## 🤝 Let's Connect
 
-- 🌐 [Website](https://nahin.vercel.app)
+- 🌐 [Website](https://nahin.com.bd)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nahinintesher/)
 - 🏠 [GitHub](https://github.com/NahinIntesher)
 - 📘 [Facebook](https://www.facebook.com/nahinnintesher)
